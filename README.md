@@ -1,6 +1,6 @@
-# 🧩 Sudoku Solver – PB071 Homework 02
+# 🧩 Sudoku Solver
 
-This repository contains a C implementation of a **Sudoku assistant** developed as part of the **PB071 (C Programming)** course. The main goal of the assignment is not to solve all types of Sudoku puzzles, but to implement a logic-based elimination approach to solve **simple, uniquely solvable** puzzles.
+This repository contains a C implementation of a **Sudoku assistant** developed as part of the C Programming course. The main goal of the assignment is not to solve all types of Sudoku puzzles, but to implement a logic-based elimination approach to solve **simple, uniquely solvable** puzzles.
 
 ---
 
