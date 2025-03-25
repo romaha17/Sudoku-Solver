@@ -1,0 +1,36 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# CMake and Make artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Executables
+sudoku
+
+# VSCode settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Linux
+core
+
+# Windows
+Thumbs.db
+desktop.ini
